@@ -1,5 +1,5 @@
 # Introduction:
-The Loan Eligibility Prediction project is a machine learning-based application that predicts whether a loan application is eligible or not based on various parameters such as education, income, and credit history. The project was built using Python programming language, various machine learning algorithms, data analysis techniques, and the Optuna library for hyperparameter tuning.
+The Loan Eligibility Prediction project is a machine learning-based application that predicts whether a loan application is eligible or not based on various parameters such as education, income, and credit history. The project was built using Python programming language, various machine learning algorithms, data analysis techniques, and the Optuna library for hyperparameter tuning. Then, I deployed the final model using the Streamlit cloud platform. The web app can be found here https://gunaxprofessional-end-to-end-loan-eligibil-streamlit-app-mo3bj5.streamlit.app/
 
 # Dataset:
 The dataset used in this project is the Loan Prediction Dataset, which contains information on loan applicants, such as gender, education, income, credit history, loan amount, loan term, and others.
