@@ -8,7 +8,7 @@ scaler = pickle.load(open('scaler.pkl', 'rb'))
 encoder = pickle.load(open('encoder.pkl', 'rb'))
 
 # Create a form for users to input data
-st.write('# Loan Prediction App')
+st.write('# Loan Eligibility Prediction App')
 
 gender = st.selectbox('Gender', ['Male', 'Female'])
 married = st.selectbox('Married', ['Yes', 'No'])
